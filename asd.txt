@@ -55,3 +55,74 @@
   <div class="img5"></div>
   <div class="text5"></div>
 </div>
+
+
+
+/////// ZONDA segunda opcion ///////
+
+ <div class="hero">
+            <h1>Zonda</h1>
+            <h3>Lorem, ipsum dolor.</h3>
+        </div>
+        <div class="container">
+            <div class="evento">
+                <div data-aos="zoom-out-up" class="foto">
+                    <img src="https://1.bp.blogspot.com/-Gtd6qIgBUNI/XH0avO-b70I/AAAAAAAAchk/0Lj572c8lxMjwsXfvS_lskbAT-_nyfKywCLcBGAs/s1600/Pagani-Zonda-C12-Restaurado-%25282%2529.jpg"
+                        alt="">
+                </div>
+                <h3 class="fecha">9 de Enero de 2021</h3>
+            </div>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Id, incidunt.</p>
+            <div class="evento">
+                <div class="foto">
+                    <img src="https://i.pinimg.com/736x/11/8c/b6/118cb64275df121d637e848a002ad636.jpg" alt="">
+                </div>
+                <h3 class="fecha">3 de Febrero de 2021</h3>
+            </div>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, optio?</p>
+            <div class="evento">
+                <div class="foto">
+                    <img src="https://cdn.motor1.com/images/mgl/rQ3XV/s3/pagani-zonda-roadster.webp" alt="">
+                </div>
+                <h3 class="fecha">7 de Junio de 2022</h3>
+            </div>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, repellendus.</p>
+            <div class="evento">
+                <div class="foto">
+                    <img src="https://cdn.motor1.com/images/mgl/KNAOQ/s3/un-dia-con-el-unico-pagani-zonda-f-en-argentina.jpg" alt="">
+                </div>
+                <h3 class="fecha">18 de Agosto de 2023</h3>
+            </div>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis, error?
+
+            </p>
+            <div class="evento">
+                <div class="foto">
+                    <img src="https://img.remediosdigitales.com/cf6f26/cinque1_500/450_1000.jpg" alt="">
+                </div>
+                <h3 class="fecha">26 de Noviembre de 2024</h3>
+            </div>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae, neque fugiat iure enim nulla deleniti tempora quibusdam maxime vitae assumenda quod dolorem tempore animi corrupti nemo adipisci! Cupiditate, placeat. Dolore!</p>
+            <div class="evento">
+                <div class="foto">
+                    <img src="https://img.remediosdigitales.com/9b080c/pagani-tricolore-1/450_1000.jpg" alt="">
+                </div>
+                <h3 class="fecha">7 de Diciembre de 2021</h3>
+            </div>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minima tenetur in corporis ipsum necessitatibus hic explicabo, voluptas odio dolorem accusamus assumenda. Et illum amet impedit doloribus odio atque, asperiores voluptates neque molestias nulla sed cumque porro voluptatibus sint, optio quis assumenda soluta dolor? Laborum, magnam dolorum ut optio ab illo.</p>
+            <div class="evento">
+                <div class="foto">
+                    <img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/pagani-zonda-r-evolution-venta-sothebys-1628867400.jpg?crop=1.00xw:0.926xh;0,0&resize=480:*" alt="">
+                </div>
+                <h3 class="fecha">7 de Diciembre de 2021</h3>
+            </div>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minima tenetur in corporis ipsum necessitatibus hic explicabo, voluptas odio dolorem accusamus assumenda. Et illum amet impedit doloribus odio atque, asperiores voluptates neque molestias nulla sed cumque porro voluptatibus sint, optio quis assumenda soluta dolor? Laborum, magnam dolorum ut optio ab illo.</p>
+            <div class="evento">
+                <div class="foto">
+                    <img src="https://img.remediosdigitales.com/447562/650_1000_pagani_zonda_revolution_16/1366_2000.jpg" alt="">
+                </div>
+                <h3 class="fecha">7 de Diciembre de 2021</h3>
+            </div>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minima tenetur in corporis ipsum necessitatibus hic explicabo, voluptas odio dolorem accusamus assumenda. Et illum amet impedit doloribus odio atque, asperiores voluptates neque molestias nulla sed cumque porro voluptatibus sint, optio quis assumenda soluta dolor? Laborum, magnam dolorum ut optio ab illo.</p>
+        </div>
+    </main>
