@@ -1,0 +1,30 @@
+footer {
+    background-color: #070d17;
+
+    .informacionFooter {
+
+        display: flex;
+        justify-content: center;
+        font-size: 25px;
+        padding: 15px;
+        margin: 15px;
+
+        a {
+            padding: 1%;
+        }
+    }
+
+    .footer {
+        a {
+            color: white;
+
+            &:hover {
+                color: #324A5F;
+            }
+
+
+        }
+
+
+    }
+}

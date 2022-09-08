@@ -1,0 +1,49 @@
+@media (max-width: 850px) {
+    .grid-index {
+        grid-template-columns: repeat(4, 1fr);
+    }
+
+    .grid-huayra {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .grid-historia {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .container {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    video {
+        max-width: 100%;
+    }
+
+    .tituloindex img {
+        width: 100%;
+    }
+    .grid-historia p{
+        margin: 20px;
+    
+    }
+
+}
+
+
+@media (max-width: 670px) {
+    .header {
+        flex-direction: column;
+
+    }
+
+    .grid-huayra {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .footer a {
+        margin: 10px;
+        width: 50px;
+    }
+
+
+}

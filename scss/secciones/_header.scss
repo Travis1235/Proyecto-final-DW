@@ -1,0 +1,31 @@
+.header {
+    background-color: #070d17;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    img {
+        width: 250px;
+        padding: 15px;
+        animation: logo 1s ease;
+    }
+
+    ul {
+        list-style: none;
+        display: flex;
+
+        li {
+            margin: 15px;
+
+            a {
+                color: $decoHeader;
+                text-decoration: none;
+                &:hover {
+                    color: #324A5F;
+                    font-weight: bolder;
+                }
+            }
+        }
+    }
+
+}

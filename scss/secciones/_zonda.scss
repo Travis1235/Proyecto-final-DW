@@ -1,0 +1,50 @@
+.mainzonda {
+    background-image: linear-gradient(0deg, rgba(89, 103, 103, 1) 0%, rgba(62, 66, 73, 0.9808298319327731) 19%, rgb(15, 56, 78) 49%, rgb(20, 73, 86) 92%);
+}
+
+.hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 20vh;
+    font-size: 36px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 40px auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    flex-direction: column;
+    position: relative;
+    align-items: center;
+    p {
+        margin-bottom: 80px;
+    }
+}
+.evento {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 90px;
+    position: relative;
+}
+.fecha {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    width: calc(42% + 20px);
+    font-size: 32px;
+    font-weight: normal;
+}
+.foto {
+    width: 52%;
+    border: 10px solid rgba(44, 46, 95, 0.405);
+
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    img {
+        width: 100%;
+        vertical-align: top;
+    }
+}

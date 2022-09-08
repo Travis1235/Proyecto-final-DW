@@ -1,0 +1,71 @@
+body {
+    background-color:$colorPrincipal;
+}
+main {
+    min-height: 80vh;
+
+    .index {
+        background-image: linear-gradient(to bottom, #113c3c, #1B3022, #395756);
+    }
+
+    .tituloindex {
+        display: flex;
+        // font-family: Verdana, Geneva, Tahoma, sans-serif;
+        // align-items: center;
+        // justify-content: center;
+        // justify-items: center;
+        flex-direction: column;
+        @extend %estiloParrafo;
+    
+
+        h1 {
+            color: $colorH1;
+        }
+
+        video {
+            margin: 25px;
+
+        }
+
+        h1 {
+            font-size: 30px;
+            margin-top: 15px;
+        }
+    }
+
+    .grid-index {
+        box-sizing: border-box;
+        display: grid;
+        grid-template-columns: repeat(12, 1fr);
+        margin: 0 auto;
+        max-width: 70rem;
+        width: 100%;
+        grid-gap: 2rem;
+        padding: 2rem;
+    }
+
+    .vehiculos {
+        padding: 3rem 0;
+        text-align: center;
+    }
+
+    .tarjeta {
+        border-radius: 1rem;
+        box-shadow: $colorPrincipal 0 0 2rem;
+        grid-column-end: span 4;
+        padding: 2rem;
+
+        img {
+            border-radius: 50%;
+            max-width: 10rem;
+            width: 100%;
+        }
+    }
+    .intro .grid-index {
+        align-items: center;
+    
+        border-radius: 1rem;
+        text-align: center;
+    }
+
+}
